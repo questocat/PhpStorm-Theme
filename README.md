@@ -1,2 +1,2 @@
 # phpstorm-theme
-A very beautiful phpStorm color scheme
+:sparkling_heart: A very beautiful phpStorm color scheme
