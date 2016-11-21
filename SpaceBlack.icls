@@ -1,4 +1,4 @@
-<scheme name="ArtisanSpace " version="142" parent_scheme="Default">
+<scheme name="SpaceBlack" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -9,7 +9,7 @@
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="FILESTATUS_MODIFIED" value="b8cd44" />
-    <option name="GUTTER_BACKGROUND" value="191919" />
+    <option name="GUTTER_BACKGROUND" value="14161b" />
     <option name="HTML_TAG_TREE_LEVEL0" value="" />
     <option name="HTML_TAG_TREE_LEVEL1" value="" />
     <option name="HTML_TAG_TREE_LEVEL2" value="" />
@@ -342,7 +342,7 @@
     <option name="HTML_CODE">
       <value>
         <option name="FOREGROUND" value="c0c5ce" />
-        <option name="BACKGROUND" value="191919" />
+        <option name="BACKGROUND" value="14161b" />
       </value>
     </option>
     <option name="HTML_COMMENT">
@@ -385,7 +385,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="191919" />
+        <option name="BACKGROUND" value="14161b" />
       </value>
     </option>
     <option name="JS.BLOCK_COMMENT">
@@ -527,12 +527,12 @@
     </option>
     <option name="PHP_DOC_COMMENT_ID">
       <value>
-        <option name="FOREGROUND" value="65737e" />
+        <option name="FOREGROUND" value="4f5f6b" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="b48ead" />
+        <option name="FOREGROUND" value="ad67a1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -568,13 +568,13 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="a3be8c" />
+        <option name="FOREGROUND" value="e6c271" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="f15ea4" />
+        <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
@@ -589,7 +589,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b48ead" />
+        <option name="FOREGROUND" value="ad67a1" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -624,7 +624,7 @@
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
-        <option name="BACKGROUND" value="191919" />
+        <option name="BACKGROUND" value="14161b" />
       </value>
     </option>
     <option name="PHP_SEMICOLON">
@@ -639,7 +639,7 @@
     </option>
     <option name="PHP_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="879bd4" />
+        <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
     <option name="PHP_STRING">
@@ -742,7 +742,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="BACKGROUND" value="191919" />
+        <option name="BACKGROUND" value="14161b" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
