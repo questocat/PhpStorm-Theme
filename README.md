@@ -8,6 +8,6 @@
 #### ArtisanSpaceDarker
 ![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpaceDarker.png?raw=true)
 #### ArtisanSpaceLighter
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/screenshot_php.png?raw=true)
+![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpaceLighter.png?raw=true)
 ## HTML Screenshot
 ![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/screenshot_html.png?raw=true)
