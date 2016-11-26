@@ -28,7 +28,9 @@
 ![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpaceDarker.png?raw=true)
 #### ArtisanSpaceLighter
 ![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpaceLighter.png?raw=true)
-## HTML Screenshot
+
+### HTML Screenshot ###
+
 #### SpaceBlack
 ![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/SpaceBlack_html.png?raw=true)
 #### ArtisanSpace
