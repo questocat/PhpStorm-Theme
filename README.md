@@ -10,4 +10,7 @@
 #### ArtisanSpaceLighter
 ![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpaceLighter.png?raw=true)
 ## HTML Screenshot
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/screenshot_html.png?raw=true)
+#### SpaceBlack
+![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/SpaceBlack_html.png?raw=true)
+#### ArtisanSpace
+![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpace_html.png?raw=true)

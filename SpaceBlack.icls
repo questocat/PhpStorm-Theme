@@ -658,6 +658,11 @@
         <option name="FOREGROUND" value="c0c5ce" />
       </value>
     </option>
+    <option name="PHP_VAR_VAR">
+      <value>
+        <option name="FOREGROUND" value="ab4642" />
+      </value>
+    </option>
     <option name="REGEXP.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="8000" />
