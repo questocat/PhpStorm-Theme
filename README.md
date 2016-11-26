@@ -2,7 +2,7 @@
 :sparkling_heart: A very beautiful phpStorm color scheme
 
 ## Installation ##
-- Place the `SSpaceBlack.icls` and `ArtisanSpace.icls` file in your phpStorm folder paths are given below. 
+- Place the `SpaceBlack.icls` and `ArtisanSpace.icls` file in your phpStorm folder paths are given below. 
 - Then go to `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
 - Select the `SSpaceBlack` or `ArtisanSpace` theme from the drop down list
 - Restart the phpStorm
