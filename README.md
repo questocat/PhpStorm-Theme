@@ -16,7 +16,7 @@
 ### Windows ###
 
     For phpstorm version 2016.2
-    c:/Users/USERNAME/.PhpStorm2016/config/colors
+    c:/Users/USERNAME/.PhpStorm2016.2/config/colors
 
 ### PHP Screenshot ###
 
