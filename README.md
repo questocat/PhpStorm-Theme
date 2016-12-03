@@ -20,6 +20,8 @@
 
 ### PHP Screenshot ###
 
+#### LaraSpace
+![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/LaraSpace_php.png?raw=true)
 #### SpaceBlack
 ![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/SpaceBlack.png?raw=true)
 #### ArtisanSpace
@@ -31,6 +33,8 @@
 
 ### HTML Screenshot ###
 
+#### LaraSpace
+![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/LaraSpace_html.png?raw=true)
 #### SpaceBlack
 ![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/SpaceBlack_html.png?raw=true)
 #### ArtisanSpace
