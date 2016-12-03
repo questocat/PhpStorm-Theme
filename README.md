@@ -1,5 +1,5 @@
 # phpstorm-theme
-:sparkling_heart: A very beautiful phpStorm color scheme
+:sparkling_heart: Some very beautiful phpStorm color scheme
 
 ## Installation ##
 - Place the `SpaceBlack.icls` and `ArtisanSpace.icls` file in your phpStorm folder paths are given below. 
