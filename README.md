@@ -21,21 +21,33 @@
 ### PHP Screenshot ###
 
 #### LaraSpace
-![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/LaraSpace_php.png?raw=true)
+<img src="https://github.com/emanci/PhpStorm-Theme/blob/master/assets/LaraSpace_php.png?raw=true" width = "600" alt="LaraSpace" align=center />
+
 #### SpaceBlack
-![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/SpaceBlack.png?raw=true)
+<img src="https://github.com/emanci/PhpStorm-Theme/blob/master/assets/SpaceBlack.png?raw=true" width = "600" alt="SpaceBlack" align=center />
+
 #### ArtisanSpace
-![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpace.png?raw=true)
+<img src="https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpace.png?raw=true" width = "600" alt="ArtisanSpace" align=center />
+
 #### ArtisanSpaceDarker
-![image](https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpaceDarker.png?raw=true)
+<img src="https://github.com/emanci/PhpStorm-Theme/blob/master/assets/ArtisanSpaceDarker.png?raw=true" width = "600" alt="ArtisanSpaceDarker" align=center />
+
 #### ArtisanSpaceLighter
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpaceLighter.png?raw=true)
+<img src="https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpaceLighter.png?raw=true" width = "600" alt="ArtisanSpaceLighter" align=center />
 
 ### HTML Screenshot ###
 
 #### LaraSpace
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/LaraSpace_html.png?raw=true)
+<img src="https://github.com/emanci/phpstorm-theme/blob/master/assets/LaraSpace_html.png?raw=true" width = "600" alt="LaraSpace" align=center />
+
 #### SpaceBlack
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/SpaceBlack_html.png?raw=true)
+<img src="https://github.com/emanci/phpstorm-theme/blob/master/assets/SpaceBlack_html.png?raw=true" width = "600" alt="SpaceBlack" align=center />
+
 #### ArtisanSpace
-![image](https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpace_html.png?raw=true)
+<img src="https://github.com/emanci/phpstorm-theme/blob/master/assets/ArtisanSpace_html.png?raw=true" width = "600" alt="ArtisanSpace" align=center />
+
+## FAQ
+#### 1. PhpStorm 中左侧的 Project 栏的背景颜色可以改吗？
+当然可以的了，这里以 MacBook pro 为例，选择 PhpStorm -> Preferences 打开偏好设置窗口，
+然后选择 Appearance & Behavior -> File Colors 进入设置窗口，然后在 Local colors 域下添加 Color Label 即可。
+<img src="https://github.com/emanci/phpstorm-theme/blob/master/assets/ColorLabel.png?raw=true" width = "600" alt="ColorLabel" align=center />
