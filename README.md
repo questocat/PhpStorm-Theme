@@ -4,7 +4,7 @@
 ## Installation ##
 - Place the `SpaceBlack.icls` and `ArtisanSpace.icls` file in your phpStorm folder paths are given below. 
 - Then go to `File` -> `Settings` -> `Editor` -> `Colors & Fonts`
-- Select the `SSpaceBlack` or `ArtisanSpace` theme from the drop down list
+- Select the `SpaceBlack` or `ArtisanSpace` theme from the drop down list
 - Restart the phpStorm
 - Install color IDE plugin to change the color of sidebar.
 
